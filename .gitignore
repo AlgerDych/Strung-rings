@@ -5,3 +5,6 @@ obj
 *.meta
 *.suo
 *.csproj
+*.unityproj
+*.pidb
+*.userprefs
