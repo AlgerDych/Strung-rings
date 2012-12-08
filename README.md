@@ -1,4 +1,0 @@
-Strung-rings
-============
-
-Strung rings
