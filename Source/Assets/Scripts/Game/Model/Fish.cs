@@ -12,4 +12,10 @@ public class Fish : MonoBehaviour {
 	void Update () {
 	
 	}
+	
+	void OnDrawGizmos()
+	{
+		Gizmos.color = Color.red;
+		Gizmos.DrawWireCube(gameObject.transform.position, Vector3.one);
+	}
 }

@@ -1,6 +1,20 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Plugins\TestsInPlugins.cs">
+    <Files>
+      <File FileName="Assets\Test\TestInJsScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Plugins\NUnitLite\NUnitLite.CHANGES.txt" Line="1" Column="1" />
+      <File FileName="Assets\Plugins\NUnitLite\NUnitLite.LICENSE.txt" Line="1" Column="1" />
+      <File FileName="Assets\Plugins\NUnitLite\NUnitLite.README.txt" Line="1" Column="1" />
+      <File FileName="Assets\Plugins\NUnitLite\NUnitLiteUnityRunner.README.txt" Line="1" Column="1" />
+      <File FileName="Assets\Plugins\TestsInPlugins.cs" Line="28" Column="39" />
+      <File FileName="Assets\Plugins\NUnitLite\NUnitLiteUnityRunner.cs" Line="94" Column="1" />
+      <File FileName="Assets\Test\CSharpTestDriver.cs" Line="16" Column="42" />
+      <File FileName="Assets\Test\SomeCSharpTests.cs" Line="27" Column="34" />
+      <File FileName="Assets\Scripts\Game\Model\Fish.cs" Line="19" Column="22" />
+      <File FileName="Assets\Scripts\Game\GameField.cs" Line="45" Column="91" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

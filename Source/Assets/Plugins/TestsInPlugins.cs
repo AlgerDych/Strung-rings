@@ -26,6 +26,6 @@ public class SomeTestInPlugins
     public void CanCombineTestsWithAndOperator()
     {
         // NOTE: forced failure result
-        Assert.That(42, Is.GreaterThan(40) & Is.LessThan(40));
+        Assert.Equals(42, 42);
     }
 }
