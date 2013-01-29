@@ -45,10 +45,14 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Test\TestInJsScript.js" />
+     <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
      <None Include="Assets\Plugins\NUnitLite\NUnitLiteUnityRunner.README.txt" />
      <None Include="Assets\Plugins\NUnitLite\NUnitLite.CHANGES.txt" />
      <None Include="Assets\Plugins\NUnitLite\NUnitLite.README.txt" />
      <None Include="Assets\Plugins\NUnitLite\NUnitLite.LICENSE.txt" />
+ <Reference Include="Assembly-UnityScript-firstpass">
+ <HintPath>Library\ScriptAssemblies\Assembly-UnityScript-firstpass.dll</HintPath>
+ </Reference>
  <Reference Include="NUnitLite">
  <HintPath>Assets\Plugins\NUnitLite\NUnitLite.dll</HintPath>
  </Reference>

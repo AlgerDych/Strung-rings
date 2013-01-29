@@ -1,6 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
+
 public class GameField : MonoBehaviour 
 {	
 	public const float DEFAULT_WIDTH = 960;
